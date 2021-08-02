@@ -12,20 +12,22 @@ grandeurSmart consists of many features which includes but are not limited to:
   <li>Weather Display</li>
   <li>Temperature, Wind, Force and Pressure Display</li>
   <li>Grouping - for categorization of Smart Devices into Rooms</li>
-  <li>Editing - for renaming Smart Devices, Rooms, Persons, etc.</li>
+  <li>Updating - for renaming Smart Devices, Rooms, Persons, etc.</li>
   <li>Notifications</li>
   <li>Profile Page</li>
-  <li>Profile Settings</li>
+  <li>Settings</li>
   <li>Integrations - for integrating services available from the backend</li>
-  <li>People - for creating sub-user account to access the smart-home</li>
+  <li>People - for creating sub-user account to access your home</li>
   <li>Light Mode and Dark Mode</li>
   <li>Installable</li>
   <li>e.t.c</li>
 </ul>
 
-<h1 align='center'>My Design Principles</h1>
+<h1 align='center'>Our Design Principles</h1>
 
-I was tasked to come up with a product design for a website interface that will serve both it's mobile and desktop users, in my design research process and after having a clear communication with the team, I was given references and had to come up with my own ideas on how to improve these references to better suit our ultimate design goal.
+I was tasked to come up with a product design for a website interface that will serve both it's mobile and desktop users, I carried out my design research, with refrences from the development team and I also had to come up with new ideas on how to improve these references to better suit the businesses ultimate design goal.
+
+Some if the design principles includes...
 
 **• Mobile and Web Responsive**: first, the website had to be responsive due to persistent increase in users accessing the internet through their mobile phones over desktops or laptops devices, so this website had to be responsive which enables it to be accessible on any type screen size or device, the website is able to switch on having a sidebar on desktops or large screens to having a native-app-like footer navigation on mobile or smaller screens.
 
