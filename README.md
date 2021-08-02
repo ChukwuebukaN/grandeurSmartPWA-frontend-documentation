@@ -33,14 +33,44 @@ I was tasked to come up with a product design for a website interface that will 
 
 It also show the available devices paired and detected by the grandeurSmart system, it displays rooms where those devices belong on the user dashboard to help in easily navigating areas where these devices have been categorized to. 
 
-**CRUD (Create, Read, Delete, Update)**: One of my design principles was to make the user interface very interactive by addind CRUD feautures to the front-end, on the grandeurSmart platform user can **Create** rooms, persons (sub-accounts) 
+**CRUD (Create, Read, Delete, Update)**: One of my design principles was to make the user interface very interactive by addind CRUD feautures to the front-end, on the grandeurSmart platform user can **Create** rooms and persons (sub-accounts), can **Update** the created rooms, smart-device names, persons, change passwords, update profile, e.t.c, and also **Delete** the rooms and person available on the application.
 
-**Light and Dark Mode**:
+**Light and Dark Mode**: One other suggestions and requirements from the team was to make sure users had the option to swicth between light mode and dark mode as growing concerns towards eye health damage from the blue-light emitted from mobile and desktop screens, so this feauture was included into the application where users can go to thier account settings and toggle if they want thier devices to access grandeurSmart using any of the screen modes.
 
-**installability (iOs, Android or Desktop)**:
+**installability (iOs, Android or Desktop)**: The most interesting feature of it all is the website is installable!, due to the advancement in web technologies we created a PWA which has the ability to be installed from the browser and added to the home-screen of the device. Using the manifest.json and service-workers we set-up the web app to be installed on users devices by showing a install prompt which checks if the app already installed, and the app favicon and splash-screens all setup. 
+
+The app being installable really reinforces the companines design and usability principles, where it allows users of it's tech products to easily access thier smart-homes whether on web or mobile at the tip of thier finger.
 
 
 <h1 align='center'>How it works</h1>
+
+grandeurSmart as a PWA is a website you can access on your browser by typing it's URL into the browser url bar, then you can access it locally by connecting to the network on gateway system provided, only then can you fully have access to the website full functionalities.
+
+After you create an account or login into the application and pair in your smart-devices, you will be able to control your devices, categorize them into rooms, create accounts for other family members, add integrations and do so much more.
+
+Below are only some of the User Inerface designs and images.
+
+<h1 >Login and Sign Up (Desktop View)</h1>
+
+
+
+<h1 >How it works</h1>
+
+<h1 >How it works</h1>
+
+<h1 >How it works</h1>
+
+<h1 >How it works</h1>
+
+<h1 >How it works</h1>
+
+<h1 >How it works</h1>
+
+<h1 >How it works</h1>
+
+<h1 >How it works</h1>
+
+<h1 >How it works</h1>
 
 
 <h1 align='center'>About the project</h1>
