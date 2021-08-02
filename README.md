@@ -65,12 +65,12 @@ Below are only some of the User Interface designs and images.
 
 ![Screenshot from 2021-07-29 23-38-49](https://user-images.githubusercontent.com/64613243/127873572-af3a8071-1d02-4cb7-ba6f-845794b82b08.png)
 
-<h1 >• Rooms (Mobile and Desktop View)</h1>
+<h1 >• Rooms</h1>
 
 ![Screenshot from 2021-07-29 23-42-29](https://user-images.githubusercontent.com/64613243/127874025-4ddbd016-5019-4fc7-9541-b6549a753e79.png)
 ![Screenshot from 2021-07-29 23-42-41](https://user-images.githubusercontent.com/64613243/127874250-69950a8c-7a4c-46a1-8762-988bbe60727b.png)
 
-<h1 >• People (Mobile View)</h1>
+<h1 >• People</h1>
 
 ![Screenshot from 2021-07-29 23-42-01](https://user-images.githubusercontent.com/64613243/127878950-f77a4863-461b-4d9f-80d6-725814e6da11.png)
 
@@ -80,7 +80,7 @@ Below are only some of the User Interface designs and images.
 ![Screenshot from 2021-07-29 23-43-33](https://user-images.githubusercontent.com/64613243/127878981-12faf44b-b525-4322-9c5d-f8c3c6f070f2.png)
 
 
-<h1 >• Settings (Mobile View)</h1>
+<h1 >• Settings</h1>
 
 ![Screenshot from 2021-07-29 23-38-56](https://user-images.githubusercontent.com/64613243/127879065-b23232f0-818d-41c2-97b5-8ea02fff728f.png)
 
