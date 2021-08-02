@@ -33,7 +33,6 @@ Some if the design principles includes...
 
 **• User-oriented interface**: the product was built to be user focused as to make it's users feel at home when utilizing the website and knowing that they are in full control of their smart-home and devices, the current users name is displayed on logging in into the website, also it shows the available devices paired and detected by the grandeurSmart system and furthermore the dashboard is presented with useful weather informations such as Current Weather, Wind force, Temperature and Pressure, also included are easy navigation, easily readable fonts, etc.
 
-It also , it 
 
 **• CRUD (Create, Read, Delete, Update)**: One of my design principles was to make the user interface very interactive by adding CRUD features to the front-end, on the grandeurSmart platform user can **Create** rooms and persons (sub-accounts), can **Update** the created rooms, smart-device names, persons, change passwords, update profile, e.t.c, and also **Delete** the rooms and persons available on the application. Also it displays rooms where available devices belong on the user dashboard to help in easily navigating areas where these devices have been categorized to.
 
