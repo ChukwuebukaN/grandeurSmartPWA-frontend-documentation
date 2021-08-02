@@ -2,7 +2,7 @@
 
 ![1](https://user-images.githubusercontent.com/64613243/127857570-c6c6f3c9-f4b4-43fa-b8f6-6b5a2e0e541a.png)
 
-The MainLogix grandeurSmart PWA is a progressive web application that was developed to control smart-devices and help improve the smart home experience to users of smart-home appliances produced by <a href='https://mainlogix.org/'>Mainlogix LTD</a> that could be installed from their browsers on the home-screens of their iOS, Android or desktop devices that allow PWA installability.
+The MainLogix grandeurSmart app is a progressive web application that was developed to control smart-devices and help improve the smart home experience to users of smart-home appliances produced by <a href='https://mainlogix.org/'>Mainlogix LTD</a> that could be installed from their browsers on the home-screens of their iOS, Android or desktop devices that allow PWA installability.
 
 grandeurSmart consists of many features which includes but are not limited to:
 
