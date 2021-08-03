@@ -45,9 +45,9 @@ The app being installable really reinforces the companies design and usability p
 
 <h1 align='center'>How it works</h1>
 
-grandeurSmart as a PWA is a website you can access on your browser by typing it's URL into the browser url bar, then you can access it locally by connecting to the network on the gateway system provided, only then can you fully have access it's full functionalities.
+grandeurSmart as a PWA is a website you can access on your browser by typing it's URL into the browser url bar, you can access the app locally by connecting to the network on the gateway system provided by MainLogix, only then can you have full access to all it's functionalities.
 
-After you create an account or login into the application and pair in your smart-devices, you will be able to control your devices, categorize them into rooms, create accounts for other family members, add integrations and do so much more.
+After you create an account and login to the application, you pair in your smart-devices, Then on arriving at your dashboard will be able to see and control all your devices, categorize them into rooms, create sub-accounts for other family members, add integrations and do so much more.
 
 Below are some of the User Interface designs and images.
 
