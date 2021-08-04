@@ -86,6 +86,15 @@ Below are some of the User Interface designs and images.
 ![Screenshot from 2021-07-29 23-38-56](https://user-images.githubusercontent.com/64613243/127879065-b23232f0-818d-41c2-97b5-8ea02fff728f.png)
 
 
+<h1 >• MOBILE VIEW</h1>
+
+![Mainlogix grandeurSmart Mobile Views](https://user-images.githubusercontent.com/64613243/128128749-d70697f5-a0e9-4402-9f51-3585cb497fbe.png)
+
+![Mainlogix grandeurSmart Mobile Views2](https://user-images.githubusercontent.com/64613243/128128765-59919e64-c44a-48d2-aec2-3a226b215f57.png)
+
+![Mainlogix grandeurSmart Mobile Views3](https://user-images.githubusercontent.com/64613243/128128777-0794c523-1e4d-4e40-8629-161040bf2ad3.png)
+
+
 <h1 align='center'>About the project</h1>
 
 grandeurSmart PWA was built using **React**, a javascript library from facebook, and other libraries including Tailwind CSS, Redux-toolkit, AntD Components, etc. 
