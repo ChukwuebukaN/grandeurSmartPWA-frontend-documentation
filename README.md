@@ -106,3 +106,6 @@ Many and great contributions from <a href='https://github.com/timothyakinyelu'>T
 The project was inspired by home automation and a burning desire to improve and simplify life through technology.
 
 Thanks to **Tim Akinyelu** for the many contributions & guidance, **Josiah Akinloye** and the entire MainLogix family for their support.
+
+sudo chown mainlogix: /home/mainlogix/grandeursmart -R
+
