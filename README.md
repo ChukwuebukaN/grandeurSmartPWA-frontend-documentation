@@ -42,6 +42,43 @@ Some if the design principles includes...
 
 The app being installable really reinforces the companies design and usability principles, which it allows users of it's products and services to easily access their smart-homes on desktop or mobile at the tip of their fingers.
 
+<h1 align='center'>Getting started</h1>
+
+- [x] Recommended: `Node.js 14+` and `npm 6+`
+- [x] Install dependencies: `npm install` or `yarn`
+- [x] Start the server: `npm run start` or `yarn start`
+
+<h1>API </h1>
+
+`grandeurSmartPWA/src/api/`
+
+**login.js**
+
+ // Send a GET request
+ 
+        SendFlowId: async function(email, password, flow_id) {
+            // console.log(email, password)
+            let data = {
+                username: email,
+                password: password,
+                client_id: 'http://localhost:3000'
+            }
+            return await localApi.post(`/auth/login_flow/${flow_id}`, data)
+        },
+        
+  // Send a POST request
+  
+        GetFlowId: async function() {
+            let data = {
+                client_id: "http://localhost:3000",
+                handler: ["homeassistant", null],
+                redirect_uri: "http://localhost:3000",
+                type: "authorize"
+            }
+            return await localApi.post('/auth/login_flow', data);
+        }
+
+
 
 <h1 align='center'>How it works</h1>
 
@@ -95,17 +132,15 @@ Below are some of the User Interface designs and images.
 ![Mainlogix grandeurSmart Mobile Views3](https://user-images.githubusercontent.com/64613243/128128777-0794c523-1e4d-4e40-8629-161040bf2ad3.png)
 
 
+
 <h1 align='center'>About the project</h1>
 
 grandeurSmart PWA was built using **React**, a javascript library from facebook, and other libraries including Tailwind CSS, Redux-toolkit, AntD Components, etc. 
 
 The project was developed to improve the utility chain of <a href='https://mainlogix.org/'>Mainlogix LTD</a> and its smart-home products and services offered.
 
-Many and great contributions from <a href='https://github.com/timothyakinyelu'>Tim Akinyelu</a> (Back-end Developer).
+Distributed under the MIT License. See LICENSE for more information.
+
+Contact - Email Us: **support@mainlogix.org**
 
 The project was inspired by home automation and a burning desire to improve and simplify life through technology.
-
-Thanks to **Tim Akinyelu** for the many contributions & guidance, **Josiah Akinloye** and the entire MainLogix family for their support.
-
-sudo chown mainlogix: /home/mainlogix/grandeursmart -R
-
