@@ -50,34 +50,7 @@ The app being installable really reinforces the companies design and usability p
 
 <h1>API </h1>
 
-`grandeurSmartPWA/src/api/`
-
-**login.js**
-
- // Send a GET request
- 
-        SendFlowId: async function(email, password, flow_id) {
-            // console.log(email, password)
-            let data = {
-                username: email,
-                password: password,
-                client_id: 'http://localhost:3000'
-            }
-            return await localApi.post(`/auth/login_flow/${flow_id}`, data)
-        },
-        
-  // Send a POST request
-  
-        GetFlowId: async function() {
-            let data = {
-                client_id: "http://localhost:3000",
-                handler: ["homeassistant", null],
-                redirect_uri: "http://localhost:3000",
-                type: "authorize"
-            }
-            return await localApi.post('/auth/login_flow', data);
-        }
-
+`•••`
 
 
 <h1 align='center'>How it works</h1>
