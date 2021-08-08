@@ -114,6 +114,6 @@ The project was developed to improve the utility chain of <a href='https://mainl
 
 Distributed under the MIT License. See LICENSE for more information.
 
-Contact - Email Us: **support@mainlogix.org**
+Contact Email: **support@mainlogix.org**
 
 The project was inspired by home automation and a burning desire to improve and simplify life through technology.
