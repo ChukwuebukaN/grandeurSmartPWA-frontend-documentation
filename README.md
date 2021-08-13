@@ -25,9 +25,9 @@ grandeurSmart consists of many features which includes but are not limited to:
 
 <h1 align='center'>Our Design Principles</h1>
 
-I was tasked to come up with a product design for a website interface that will serve both it's mobile and desktop users, I carried out my design research, with refrences from the development team and I also had to come up with new ideas on how to improve these references to better suit the businesses ultimate design goal.
+My challenge was to come up with a product design for a website interface that will serve both it's mobile and desktop users, I carried out my design research, with refrences from the development team and I also had to come up with new ideas on how to improve these references to better suit the businesses ultimate design goal.
 
-Some if the design principles includes...
+Some of the design principles includes...
 
 **• Mobile and Web Responsive**: first, the website had to be responsive due to persistent increase in users accessing the internet through their mobile phones over desktops or laptops devices, so this website had to be responsive which enables it to be accessible on any type of screen sizes or devices, the website is able to resize from having a sidebar on desktops or large screens to having a native-app-like footer navigation on mobile or smaller screens.
 
@@ -47,10 +47,13 @@ The app being installable really reinforces the companies design and usability p
 - [x] Recommended: `Node.js 14+` and `npm 6+`
 - [x] Install dependencies: `npm install` or `yarn`
 - [x] Start the server: `npm run start` or `yarn start`
+- [x] To deploy, you need to make a build: `npm run build`
 
-<h1>API </h1>
 
-`•••`
+<h1>API's </h1>
+
+• WEBSOCKET API
+• REST API
 
 
 <h1 align='center'>How it works</h1>
